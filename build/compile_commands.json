@@ -1,0 +1,1187 @@
+[
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/external/binance  -pthread -g   -std=gnu++17 -o CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp.cpp.o -c /home/tom/Projects/ctrade/external/binance/binacpp/binacpp.cpp",
+  "file": "/home/tom/Projects/ctrade/external/binance/binacpp/binacpp.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/external/binance  -pthread -g   -std=gnu++17 -o CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp_logger.cpp.o -c /home/tom/Projects/ctrade/external/binance/binacpp/binacpp_logger.cpp",
+  "file": "/home/tom/Projects/ctrade/external/binance/binacpp/binacpp_logger.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/external/binance  -pthread -g   -std=gnu++17 -o CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp_utils.cpp.o -c /home/tom/Projects/ctrade/external/binance/binacpp/binacpp_utils.cpp",
+  "file": "/home/tom/Projects/ctrade/external/binance/binacpp/binacpp_utils.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=gnu++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/tom/Projects/ctrade/app/main.cpp",
+  "file": "/home/tom/Projects/ctrade/app/main.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=gnu++17 -o CMakeFiles/ctrade.dir/src/platforms/binance/platform.cc.o -c /home/tom/Projects/ctrade/src/platforms/binance/platform.cc",
+  "file": "/home/tom/Projects/ctrade/src/platforms/binance/platform.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=gnu++17 -o CMakeFiles/ctrade.dir/src/shared/markets/state.cc.o -c /home/tom/Projects/ctrade/src/shared/markets/state.cc",
+  "file": "/home/tom/Projects/ctrade/src/shared/markets/state.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=gnu++17 -o CMakeFiles/ctrade.dir/src/shared/markets/path.cc.o -c /home/tom/Projects/ctrade/src/shared/markets/path.cc",
+  "file": "/home/tom/Projects/ctrade/src/shared/markets/path.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=gnu++17 -o CMakeFiles/ctrade.dir/src/strategies/simple_strategie.cc.o -c /home/tom/Projects/ctrade/src/strategies/simple_strategie.cc",
+  "file": "/home/tom/Projects/ctrade/src/strategies/simple_strategie.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/BasicExecutor.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BasicExecutor.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BasicExecutor.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/BlockingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BlockingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BlockingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/BusySpinWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BusySpinWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BusySpinWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/FixedSequenceGroup.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/FixedSequenceGroup.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/FixedSequenceGroup.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ProcessingSequenceBarrier.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProcessingSequenceBarrier.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProcessingSequenceBarrier.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ProducerType.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProducerType.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProducerType.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/RoundRobinThreadAffinedTaskScheduler.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/RoundRobinThreadAffinedTaskScheduler.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/RoundRobinThreadAffinedTaskScheduler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/Sequence.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/Sequence.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/Sequence.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/SequenceGroups.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SequenceGroups.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SequenceGroups.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/SleepingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SleepingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SleepingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/SpinWait.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWait.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWait.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/SpinWaitWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWaitWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWaitWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/stdafx.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/stdafx.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/stdafx.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ThreadPerTaskScheduler.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadPerTaskScheduler.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadPerTaskScheduler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ThreadHelper_Linux.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Linux.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Linux.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ThreadHelper_macOS.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_macOS.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_macOS.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/ThreadHelper_Windows.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Windows.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Windows.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/TimeoutBlockingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/TimeoutBlockingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/TimeoutBlockingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/TypeInfo.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/TypeInfo.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/TypeInfo.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/Util.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/Util.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/Util.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g   -fPIC -std=gnu++17 -o CMakeFiles/DisruptorStatic.dir/YieldingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/YieldingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/YieldingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/BasicExecutor.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BasicExecutor.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BasicExecutor.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/BlockingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BlockingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BlockingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/BusySpinWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/BusySpinWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/BusySpinWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/FixedSequenceGroup.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/FixedSequenceGroup.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/FixedSequenceGroup.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ProcessingSequenceBarrier.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProcessingSequenceBarrier.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProcessingSequenceBarrier.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ProducerType.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProducerType.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ProducerType.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/RoundRobinThreadAffinedTaskScheduler.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/RoundRobinThreadAffinedTaskScheduler.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/RoundRobinThreadAffinedTaskScheduler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/Sequence.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/Sequence.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/Sequence.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/SequenceGroups.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SequenceGroups.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SequenceGroups.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/SleepingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SleepingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SleepingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/SpinWait.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWait.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWait.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/SpinWaitWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWaitWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/SpinWaitWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/stdafx.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/stdafx.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/stdafx.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ThreadPerTaskScheduler.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadPerTaskScheduler.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadPerTaskScheduler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ThreadHelper_Linux.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Linux.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Linux.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ThreadHelper_macOS.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_macOS.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_macOS.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/ThreadHelper_Windows.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Windows.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/ThreadHelper_Windows.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/TimeoutBlockingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/TimeoutBlockingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/TimeoutBlockingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/TypeInfo.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/TypeInfo.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/TypeInfo.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/Util.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/Util.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/Util.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/Disruptor/Disruptor",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDisruptorShared_EXPORTS -I/home/tom/Projects/ctrade/external/Disruptor/Disruptor/..  -pthread -std=c++14 -O2 -W -Wall -g -fPIC   -fPIC -pthread -std=gnu++17 -o CMakeFiles/DisruptorShared.dir/YieldingWaitStrategy.cpp.o -c /home/tom/Projects/ctrade/external/Disruptor/Disruptor/YieldingWaitStrategy.cpp",
+  "file": "/home/tom/Projects/ctrade/external/Disruptor/Disruptor/YieldingWaitStrategy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/Api.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/Api.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/Api.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/Bot.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/Bot.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/Bot.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/EventHandler.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/EventHandler.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/EventHandler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/TgException.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/TgException.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/TgException.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/TgTypeParser.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/TgTypeParser.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/TgTypeParser.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/net/BoostHttpOnlySslClient.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/BoostHttpOnlySslClient.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/BoostHttpOnlySslClient.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/net/CurlHttpClient.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/CurlHttpClient.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/CurlHttpClient.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/net/HttpParser.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/HttpParser.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/HttpParser.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/net/TgLongPoll.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/TgLongPoll.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/TgLongPoll.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/net/Url.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/Url.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/net/Url.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/tools/FileTools.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/tools/FileTools.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/tools/FileTools.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/tools/StringTools.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/tools/StringTools.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/tools/StringTools.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/types/InlineQueryResult.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/types/InlineQueryResult.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/types/InlineQueryResult.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/external/tgbot-cpp-master",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DHAVE_CURL -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include  -pthread -Wall -g -fPIC   -std=c++14 -o CMakeFiles/TgBot.dir/src/types/InputFile.cpp.o -c /home/tom/Projects/ctrade/external/tgbot-cpp-master/src/types/InputFile.cpp",
+  "file": "/home/tom/Projects/ctrade/external/tgbot-cpp-master/src/types/InputFile.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/googletest-build/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest  -pthread -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -pthread -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/tom/Projects/ctrade/build/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/tom/Projects/ctrade/build/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/googletest-build/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/build/googletest-src/googlemock/include -I/home/tom/Projects/ctrade/build/googletest-src/googlemock -I/home/tom/Projects/ctrade/build/googletest-src/include -I/home/tom/Projects/ctrade/build/googletest-src -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest  -pthread -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -pthread -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/tom/Projects/ctrade/build/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/tom/Projects/ctrade/build/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/googletest-build/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest  -pthread -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -pthread -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/tom/Projects/ctrade/build/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/tom/Projects/ctrade/build/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/googletest-build/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tom/Projects/ctrade/build/googletest-src/googletest/include -I/home/tom/Projects/ctrade/build/googletest-src/googletest  -pthread -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -pthread -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/tom/Projects/ctrade/build/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/tom/Projects/ctrade/build/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/allocator.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/allocator.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/allocator.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/arena.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/arena.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/arena.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/arena_slot.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/arena_slot.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/arena_slot.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/concurrent_bounded_queue.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/concurrent_bounded_queue.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/concurrent_bounded_queue.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/dynamic_link.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/dynamic_link.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/dynamic_link.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/exception.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/exception.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/exception.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/governor.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/governor.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/governor.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/global_control.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/global_control.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/global_control.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/itt_notify.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/itt_notify.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/itt_notify.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/main.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/main.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/main.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/market.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/market.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/market.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/misc.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/misc.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/misc.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/misc_ex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/misc_ex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/misc_ex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/observer_proxy.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/observer_proxy.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/observer_proxy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/parallel_pipeline.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/parallel_pipeline.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/parallel_pipeline.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/private_server.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/private_server.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/private_server.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/profiling.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/profiling.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/profiling.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/rml_tbb.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rml_tbb.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rml_tbb.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/rtm_mutex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rtm_mutex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rtm_mutex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/rtm_rw_mutex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rtm_rw_mutex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/rtm_rw_mutex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/semaphore.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/semaphore.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/semaphore.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/small_object_pool.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/small_object_pool.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/small_object_pool.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/task.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/task_dispatcher.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task_dispatcher.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task_dispatcher.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/task_group_context.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task_group_context.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/task_group_context.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/version.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/version.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/version.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbb",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBB_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbb.dir/queuing_rw_mutex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/queuing_rw_mutex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/queuing_rw_mutex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/backend.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/backend.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/backend.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/backref.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/backref.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/backref.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/frontend.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/frontend.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/frontend.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/large_objects.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/large_objects.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/large_objects.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/tbbmalloc.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/tbbmalloc.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/tbbmalloc.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -D__TBB_USE_ITT_NOTIFY -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc.dir/__/tbb/itt_notify.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/itt_notify.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/itt_notify.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc_proxy",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOCPROXY_BUILD -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc_proxy.dir/function_replacement.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/function_replacement.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/function_replacement.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/src/tbbmalloc_proxy",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOCPROXY_BUILD -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wall -Wextra -Werror -Wfatal-errors -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/tbbmalloc_proxy.dir/proxy.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/proxy.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/proxy.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_new_handler.dir/tbbmalloc/test_malloc_new_handler.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_new_handler.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_new_handler.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_overload_disable.dir/tbbmalloc/test_malloc_overload_disable.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_overload_disable.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_overload_disable.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_overload.dir/tbbmalloc/test_malloc_overload.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_overload.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_overload.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_atexit.dir/tbbmalloc/test_malloc_atexit.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_atexit.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_atexit.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -D_test_malloc_atexit_EXPORTS -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc_proxy/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -D_USRDLL -pthread -std=c++17 -o CMakeFiles/_test_malloc_atexit.dir/tbbmalloc/test_malloc_atexit.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_atexit.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_atexit.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_priority_queue.dir/tbb/test_concurrent_priority_queue.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_priority_queue.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_priority_queue.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_overwrite_node.dir/tbb/test_overwrite_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_overwrite_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_overwrite_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -g   -pthread -o CMakeFiles/test_malloc_pure_c.dir/tbbmalloc/test_malloc_pure_c.c.o   -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_pure_c.c",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_pure_c.c"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_split_node.dir/tbb/test_split_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_split_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_split_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_join_node_key_matching.dir/tbb/test_join_node_key_matching.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node_key_matching.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node_key_matching.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_unordered_set.dir/tbb/test_concurrent_unordered_set.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_unordered_set.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_unordered_set.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_task_group_context.dir/conformance/conformance_task_group_context.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_task_group_context.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_task_group_context.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_limiter_node.dir/tbb/test_limiter_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_limiter_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_limiter_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_join_node_msg_key_matching.dir/tbb/test_join_node_msg_key_matching.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node_msg_key_matching.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node_msg_key_matching.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_flow_graph_whitebox.dir/tbb/test_flow_graph_whitebox.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph_whitebox.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph_whitebox.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_unordered_map.dir/conformance/conformance_concurrent_unordered_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_unordered_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_unordered_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_flow_graph_priorities.dir/tbb/test_flow_graph_priorities.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph_priorities.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph_priorities.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_blocked_range.dir/conformance/conformance_blocked_range.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -D_test_malloc_lib_unload_EXPORTS -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -D_USRDLL -pthread -std=c++17 -o CMakeFiles/_test_malloc_lib_unload.dir/tbbmalloc/test_malloc_lib_unload.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_lib_unload.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_lib_unload.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_for.dir/tbb/test_parallel_for.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_for.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_for.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_for_each.dir/tbb/test_parallel_for_each.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_for_each.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_for_each.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_map.dir/tbb/test_concurrent_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_priority_queue_node.dir/tbb/test_priority_queue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_priority_queue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_priority_queue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_lru_cache.dir/tbb/test_concurrent_lru_cache.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_lru_cache.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_lru_cache.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_environment_whitebox.dir/tbb/test_environment_whitebox.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_environment_whitebox.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_environment_whitebox.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_reduce.dir/conformance/conformance_parallel_reduce.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_reduce.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_reduce.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_semaphore.dir/tbb/test_semaphore.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_semaphore.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_semaphore.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_scan.dir/tbb/test_parallel_scan.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_scan.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_scan.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_intrusive_list.dir/tbb/test_intrusive_list.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_intrusive_list.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_intrusive_list.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_unordered_map.dir/tbb/test_concurrent_unordered_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_unordered_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_unordered_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_queue_node.dir/tbb/test_queue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_queue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_queue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_arena_constraints.dir/tbb/test_arena_constraints.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_arena_constraints.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_arena_constraints.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_sequencer_node.dir/tbb/test_sequencer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_sequencer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_sequencer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_allocators.dir/conformance/conformance_allocators.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_allocators.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_allocators.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_multifunction_node.dir/conformance/conformance_multifunction_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_multifunction_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_multifunction_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_scalable_allocator.dir/tbbmalloc/test_scalable_allocator.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_scalable_allocator.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_scalable_allocator.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_flow_graph.dir/tbb/test_flow_graph.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_flow_graph.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_task_arena.dir/tbb/test_task_arena.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task_arena.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task_arena.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_overwrite_node.dir/conformance/conformance_overwrite_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_overwrite_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_overwrite_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_tick_count.dir/tbb/test_tick_count.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tick_count.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tick_count.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_composite_node.dir/conformance/conformance_composite_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_composite_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_composite_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_broadcast_node.dir/tbb/test_broadcast_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_broadcast_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_broadcast_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_invoke.dir/tbb/test_parallel_invoke.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_invoke.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_invoke.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_eh_thread.dir/tbb/test_eh_thread.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_thread.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_thread.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_input_node.dir/tbb/test_input_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_input_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_input_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_reduce.dir/tbb/test_parallel_reduce.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_reduce.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_reduce.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_function_node.dir/tbb/test_function_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_function_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_function_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_eh_algorithms.dir/tbb/test_eh_algorithms.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_algorithms.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_algorithms.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_resumable_tasks.dir/tbb/test_resumable_tasks.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_resumable_tasks.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_resumable_tasks.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_tagged_msg.dir/tbb/test_tagged_msg.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tagged_msg.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tagged_msg.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_split_node.dir/conformance/conformance_split_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_split_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_split_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_blocked_range.dir/tbb/test_blocked_range.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_blocked_range.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_blocked_range.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_arena_constraints.dir/conformance/conformance_arena_constraints.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_arena_constraints.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_arena_constraints.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_buffer_node.dir/conformance/conformance_buffer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_buffer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_buffer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_pipeline.dir/tbb/test_parallel_pipeline.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_pipeline.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_pipeline.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_invoke.dir/conformance/conformance_parallel_invoke.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_invoke.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_invoke.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_indexer_node.dir/tbb/test_indexer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_indexer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_indexer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_join_node.dir/tbb/test_join_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_join_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_hash_map.dir/conformance/conformance_concurrent_hash_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_hash_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_hash_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_hash_map.dir/tbb/test_concurrent_hash_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_hash_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_hash_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_vector.dir/tbb/test_concurrent_vector.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_vector.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_vector.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_write_once_node.dir/tbb/test_write_once_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_write_once_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_write_once_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_blocked_rangeNd.dir/conformance/conformance_blocked_rangeNd.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_rangeNd.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_rangeNd.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_task.dir/tbb/test_task.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_input_node.dir/conformance/conformance_input_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_input_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_input_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_continue_node.dir/tbb/test_continue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_continue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_continue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_monitor.dir/tbb/test_concurrent_monitor.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_monitor.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_monitor.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_used_by_lib.dir/tbbmalloc/test_malloc_used_by_lib.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_used_by_lib.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_used_by_lib.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_tbb_fork.dir/tbb/test_tbb_fork.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_fork.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_fork.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_continue_node.dir/conformance/conformance_continue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_continue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_continue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_tbb_header.dir/tbb/test_tbb_header.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_header.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_header.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_tbb_header.dir/tbb/test_tbb_header_secondary.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_header_secondary.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_tbb_header_secondary.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_compliance.dir/tbbmalloc/test_malloc_compliance.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_compliance.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_compliance.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_enumerable_thread_specific.dir/conformance/conformance_enumerable_thread_specific.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_enumerable_thread_specific.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_enumerable_thread_specific.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -fopenmp -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_openmp.dir/tbb/test_openmp.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_openmp.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_openmp.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_lib_unload.dir/tbbmalloc/test_malloc_lib_unload.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_lib_unload.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_lib_unload.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_handle_perror.dir/tbb/test_handle_perror.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_handle_perror.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_handle_perror.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_arena_priorities.dir/tbb/test_arena_priorities.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_arena_priorities.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_arena_priorities.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_tick_count.dir/conformance/conformance_tick_count.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_tick_count.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_tick_count.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_allocators.dir/tbb/test_allocators.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_allocators.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_allocators.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_task_arena.dir/conformance/conformance_task_arena.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_task_arena.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_task_arena.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_mutex.dir/conformance/conformance_mutex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_mutex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_mutex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_task_group.dir/tbb/test_task_group.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task_group.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_task_group.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_map.dir/conformance/conformance_concurrent_map.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_map.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_map.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_async_node.dir/tbb/test_async_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_async_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_async_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_sequencer_node.dir/conformance/conformance_sequencer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_sequencer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_sequencer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_global_control.dir/tbb/test_global_control.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_global_control.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_global_control.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_unordered_set.dir/conformance/conformance_concurrent_unordered_set.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_unordered_set.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_unordered_set.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_set.dir/conformance/conformance_concurrent_set.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_set.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_set.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_priority_queue.dir/conformance/conformance_concurrent_priority_queue.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_priority_queue.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_priority_queue.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_init_shutdown.dir/tbbmalloc/test_malloc_init_shutdown.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_init_shutdown.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_init_shutdown.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_for.dir/conformance/conformance_parallel_for.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_for.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_for.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_queue_whitebox.dir/tbb/test_concurrent_queue_whitebox.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_queue_whitebox.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_queue_whitebox.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_for_each.dir/conformance/conformance_parallel_for_each.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_for_each.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_for_each.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_sort.dir/conformance/conformance_parallel_sort.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_sort.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_sort.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_multifunction_node.dir/tbb/test_multifunction_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_multifunction_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_multifunction_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_queue.dir/conformance/conformance_concurrent_queue.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_queue.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_queue.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_async_node.dir/conformance/conformance_async_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_async_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_async_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_pipeline.dir/conformance/conformance_parallel_pipeline.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_pipeline.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_pipeline.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_blocked_range2d.dir/conformance/conformance_blocked_range2d.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range2d.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range2d.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_enumerable_thread_specific.dir/tbb/test_enumerable_thread_specific.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_enumerable_thread_specific.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_enumerable_thread_specific.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_blocked_range3d.dir/conformance/conformance_blocked_range3d.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range3d.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_blocked_range3d.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_queue.dir/tbb/test_concurrent_queue.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_queue.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_queue.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_vector.dir/conformance/conformance_concurrent_vector.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_vector.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_vector.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_composite_node.dir/tbb/test_composite_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_composite_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_composite_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_global_control.dir/conformance/conformance_global_control.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_global_control.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_global_control.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_parallel_scan.dir/conformance/conformance_parallel_scan.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_scan.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_parallel_scan.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_combinable.dir/conformance/conformance_combinable.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_combinable.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_combinable.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_resumable_tasks.dir/conformance/conformance_resumable_tasks.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_resumable_tasks.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_resumable_tasks.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_version.dir/conformance/conformance_version.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_version.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_version.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_buffer_node.dir/tbb/test_buffer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_buffer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_buffer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_pools.dir/tbbmalloc/test_malloc_pools.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_pools.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_pools.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_mutex.dir/tbb/test_mutex.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_mutex.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_mutex.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_concurrent_lru_cache.dir/conformance/conformance_concurrent_lru_cache.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_lru_cache.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_concurrent_lru_cache.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_function_node.dir/conformance/conformance_function_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_function_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_function_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_profiling.dir/tbb/test_profiling.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_profiling.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_profiling.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_write_once_node.dir/conformance/conformance_write_once_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_write_once_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_write_once_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_hw_concurrency.dir/tbb/test_hw_concurrency.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_hw_concurrency.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_hw_concurrency.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_queue_node.dir/conformance/conformance_queue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_queue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_queue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_priority_queue_node.dir/conformance/conformance_priority_queue_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_priority_queue_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_priority_queue_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_shutdown_hang.dir/tbbmalloc/test_malloc_shutdown_hang.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_shutdown_hang.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_shutdown_hang.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_eh_flow_graph.dir/tbb/test_eh_flow_graph.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_flow_graph.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_eh_flow_graph.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_concurrent_set.dir/tbb/test_concurrent_set.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_set.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_concurrent_set.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_parallel_sort.dir/tbb/test_parallel_sort.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_sort.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_parallel_sort.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_limiter_node.dir/conformance/conformance_limiter_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_limiter_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_limiter_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_broadcast_node.dir/conformance/conformance_broadcast_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_broadcast_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_broadcast_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_indexer_node.dir/conformance/conformance_indexer_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_indexer_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_indexer_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_join_node.dir/conformance/conformance_join_node.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_join_node.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_join_node.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/conformance_graph.dir/conformance/conformance_graph.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_graph.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/conformance/conformance_graph.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_malloc_regression.dir/tbbmalloc/test_malloc_regression.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_regression.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_regression.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -D_test_malloc_used_by_lib_EXPORTS -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbbmalloc/../../include  -pthread -g -fPIC   -MMD -flifetime-dse=1 -Wno-parentheses -Wno-sized-deallocation -fno-rtti -fno-exceptions -mrtm -D_USRDLL -pthread -std=c++17 -o CMakeFiles/_test_malloc_used_by_lib.dir/tbbmalloc/test_malloc_used_by_lib.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_used_by_lib.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_used_by_lib.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DTBB_USE_DEBUG -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include  -pthread -g   -Wall -Wextra -Werror -Wfatal-errors -Wshadow -Wcast-qual -Woverloaded-virtual -Wnon-virtual-dtor -Wno-parentheses -Wno-sized-deallocation -mrtm -pthread -std=c++17 -o CMakeFiles/test_dynamic_link.dir/tbb/test_dynamic_link.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_dynamic_link.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbb/test_dynamic_link.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/_deps/tbb-build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -D__TBBMALLOC_BUILD -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/../include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test/.. -I/home/tom/Projects/ctrade/build/_deps/tbb-src/test  -pthread -g   -Wno-parentheses -Wno-sized-deallocation -mrtm -fno-rtti -fno-exceptions -pthread -std=c++17 -o CMakeFiles/test_malloc_whitebox.dir/tbbmalloc/test_malloc_whitebox.cpp.o -c /home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_whitebox.cpp",
+  "file": "/home/tom/Projects/ctrade/build/_deps/tbb-src/test/tbbmalloc/test_malloc_whitebox.cpp"
+},
+{
+  "directory": "/home/tom/Projects/ctrade/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DENABLE_DOCTEST_IN_LIBRARY -I/home/tom/Projects/ctrade/build -I/home/tom/Projects/ctrade/external/binance -I/home/tom/Projects/ctrade/include -I/home/tom/Projects/ctrade/external/Disruptor -I/home/tom/Projects/ctrade/external/oneTBB/include -I/home/tom/Projects/ctrade/external/tgbot-cpp-master/include -I/home/tom/Projects/ctrade/build/_deps/daw_json_link-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_header_libraries-src/include -I/home/tom/Projects/ctrade/build/_deps/daw_utf_range-src/include -I/home/tom/Projects/ctrade/build/_deps/tbb-src/src/tbb/../../include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googletest -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock/include -isystem /home/tom/Projects/ctrade/build/googletest-src/googlemock -isystem /home/tom/Projects/ctrade/build/googletest-src/include -isystem /home/tom/Projects/ctrade/build/googletest-src  -pthread -g   -Wall -Wextra -Wno-switch-enum -Werror -pthread -std=c++2a -o CMakeFiles/unit_tests.dir/strategies.cpp.o -c /home/tom/Projects/ctrade/tests/strategies.cpp",
+  "file": "/home/tom/Projects/ctrade/tests/strategies.cpp"
+}
+]

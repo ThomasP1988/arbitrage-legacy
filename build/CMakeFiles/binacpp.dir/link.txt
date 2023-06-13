@@ -1,0 +1,2 @@
+/bin/ar qc libbinacpp.a  CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp.cpp.o CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp_logger.cpp.o CMakeFiles/binacpp.dir/external/binance/binacpp/binacpp_utils.cpp.o
+/bin/ranlib libbinacpp.a
